@@ -35,7 +35,7 @@
 #include "bsp_timer.h"
 
 #define LoRa_FREQENCY   423500000    //433000000
-#define PreambleLength  52
+#define PreambleLength  16//52
 /*!
  * Constant values need to compute the RSSI value
  */

@@ -1,0 +1,8 @@
+/Output
+/Listing
+*.o
+*.d
+*.crf
+*.hex
+*.bin
+
